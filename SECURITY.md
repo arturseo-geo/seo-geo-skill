@@ -16,7 +16,8 @@ security flaws — please report it privately.
 ### How to report
 
 1. **Preferred**: Use [GitHub Security Advisories](https://github.com/arturseo-geo/seo-geo-skill/security/advisories/new)
-2. **Alternative**: DM via [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab)
+2. **Email**: artur@thegeolab.net
+3. **Alternative**: DM via [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab)
 
 ### What to include
 
