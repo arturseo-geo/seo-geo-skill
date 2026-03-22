@@ -131,19 +131,38 @@ seo-geo-skill/
 
 ---
 
-## Attribution
+## Related Repos
 
-Built from real production experience building SEO tools at
-[The GEO Lab](https://thegeolab.net). This skill documents what actually works
-(and what doesn't) when building SEO tooling with free and low-cost APIs.
+- [claude-code-skills](https://github.com/arturseo-geo/claude-code-skills) — Full collection of 12 skills
+- [mcp-wordpress-setup](https://github.com/arturseo-geo/mcp-wordpress-setup) — WordPress MCP server setup
+- [geolab-keywords](https://github.com/arturseo-geo/geolab-keywords) — Keyword intelligence platform (built with this skill's knowledge)
+- [geolab-backlinks](https://github.com/arturseo-geo/geolab-backlinks) — Backlink intelligence platform (Common Crawl discovery)
+- [geolab-seo](https://github.com/arturseo-geo/geolab-seo) — SEO Intelligence monitoring dashboard
 
-Platform data derives from official documentation for Serper.dev, Google Search
-Console, Google PSI API, Common Crawl, DataForSEO, Groq, and Webshare.
+## Acknowledgments
 
-Built following Anthropic's [Agent Skills specification](https://docs.anthropic.com/en/docs/claude-code/skills).
+Built following the open-source best practice approach — reading community work for inspiration, writing original content, and crediting every source.
+
+**Based on:**
+- [Agent Skills specification](https://github.com/anthropics/skills) by Anthropic (Apache 2.0)
+
+**Platform data compiled from official documentation:**
+- [Serper.dev](https://serper.dev) — SERP API (recommended over scraping)
+- [Google Search Console API](https://developers.google.com/webmaster-tools)
+- [Google PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started)
+- [Common Crawl](https://commoncrawl.org) — Free backlink discovery (cc-index-server)
+- [DataForSEO](https://dataforseo.com) — Backlinks API ($100/month minimum)
+- [Groq](https://groq.com) — Free AI clustering (llama-3.1-8b)
+- [Webshare](https://webshare.io) — Proxy service for crawling
+
+All skill content is original writing. No files were copied or adapted from any source.
+
+## Author
+
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
 
 ---
 
 ## Licence
 
-[MIT](LICENSE) — use it however you want.
+[MIT](LICENSE)
