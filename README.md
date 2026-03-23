@@ -1,21 +1,18 @@
 # seo-geo-skill
 
+[![Claude Code Skill Badge](https://img.shields.io/badge/Claude%20Code-Skill-purple?style=flat-square)](https://claude.com/claude-code)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/arturseo-geo/seo-geo-skill/releases)
 [![Licence](https://img.shields.io/badge/licence-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+**Author:** [Artur Seo](https://github.com/arturseo-geo) | [Twitter](https://twitter.com/stickerdaniel) | [LinkedIn](https://www.linkedin.com/in/artur-seo/) | [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
+
+---
 
 The most comprehensive SEO and GEO (Generative Engine Optimisation) skill for
 [Claude Code](https://claude.com/claude-code) — keyword research, SERP analysis,
 technical audits, content optimisation, backlink intelligence, and AI visibility
 monitoring.
-
-Built by [Artur Ferreira](https://linkedin.com/in/arturgeo) @
-[The GEO Lab](https://thegeolab.net)
-&middot; [GitHub](https://github.com/arturseo-geo)
-&middot; [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab)
-&middot; [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
-
----
 
 ## What makes this different
 
@@ -157,9 +154,9 @@ Built following the open-source best practice approach — reading community wor
 
 All skill content is original writing. No files were copied or adapted from any source.
 
-## Author
+---
 
-Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
+**Made by [Artur Seo](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [Twitter](https://twitter.com/stickerdaniel) • [LinkedIn](https://www.linkedin.com/in/artur-seo/) • [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
 
 ---
 
