@@ -5,7 +5,8 @@
 [![Licence](https://img.shields.io/badge/licence-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**Author:** [Artur Seo](https://github.com/arturseo-geo) | [Twitter](https://twitter.com/stickerdaniel) | [LinkedIn](https://www.linkedin.com/in/artur-seo/) | [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
+> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ---
 
@@ -156,7 +157,7 @@ All skill content is original writing. No files were copied or adapted from any 
 
 ---
 
-**Made by [Artur Seo](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [Twitter](https://twitter.com/stickerdaniel) • [LinkedIn](https://www.linkedin.com/in/artur-seo/) • [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
+**Made by [Artur Ferreira](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) • [LinkedIn](https://linkedin.com/in/arturgeo) • [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ---
 
