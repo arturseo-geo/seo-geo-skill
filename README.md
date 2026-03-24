@@ -5,8 +5,7 @@
 [![Licence](https://img.shields.io/badge/licence-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)** · [GEO Brand Citation Index](https://thegeolab.net/geo-brand-citation-index/) · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo)
 
 ---
 
@@ -164,3 +163,7 @@ All skill content is original writing. No files were copied or adapted from any 
 ## Licence
 
 [MIT](LICENSE)
+
+---
+
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)** · [GEO Brand Citation Index](https://thegeolab.net/geo-brand-citation-index/) · [MIT License](LICENSE)
