@@ -28,6 +28,8 @@ description: >
 | Technical audit | `references/technical-audit.md` | Site audits, crawling, meta tags, schema, Core Web Vitals |
 | Backlink intelligence | `references/backlinks.md` | Backlink discovery, toxic scoring, competitor gaps, broken links |
 | Infrastructure | `references/infrastructure.md` | Building tools, proxies, caching, deployment, APIs |
+| GEO retrieval gates | `references/geo-retrieval-gates.md` | Stage 0 candidate pool, fan-out queries, two-stage pipeline, parallel tracks |
+| Citation readiness | `references/citation-readiness.md` | Citation-ready sentences, context management, statistical currency |
 | Failure registry | `references/failures.md` | Debugging, known pitfalls, API failures, library bugs |
 
 ## Project Context
